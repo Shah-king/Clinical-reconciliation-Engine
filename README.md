@@ -174,14 +174,13 @@ See [ARCHITECTURE.md](ARCHITECTURE.md) for the full architecture decisions docum
 ## Estimated Time Spent
 
 | Phase | Time |
-|---|---|
-| Backend API + scoring engine | ~4 hours |
-| LLM integration + prompt engineering | ~2 hours |
-| Frontend dashboard | ~3 hours |
-| Production hardening (rate limiting, security headers, auth) | ~2 hours |
-| PyHealth data adapter | ~1.5 hours |
-| Testing | ~1.5 hours |
-| **Total** | **~14 hours** |
+| Backend API + scoring engine | ~3 hours |
+| LLM integration + prompt engineering | ~3 hours |
+| Frontend dashboard | ~2 hours |
+| Production hardening (rate limiting, security headers, auth) | ~1 hours |
+| PyHealth data adapter | ~0.5 hours |
+| Testing | ~0.5 hours |
+| **Total** | **~10 hours** |
 
 ---
 
