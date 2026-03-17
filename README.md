@@ -180,7 +180,7 @@ See [ARCHITECTURE.md](ARCHITECTURE.md) for the full architecture decisions docum
 | Production hardening (rate limiting, security headers, auth) | ~1 hours |
 | PyHealth data adapter | ~0.5 hours |
 | Testing | ~0.5 hours |
-| **Total** | **~10 hours** |
+| **Total** | **~11 hours** |
 
 ---
 
